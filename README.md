@@ -52,8 +52,3 @@ to April 2026 (1,509 days of conflict).
 ### Equipment Timeline
 ![Timeline](equipment_timeline.png)
 
-## Power BI Dashboard
-![Page1](dashboard_page1.png)
-![Page2](dashboard_page2.png)
-![Page3](dashboard_page3.png)
-![Page4](dashboard_page4.png)
